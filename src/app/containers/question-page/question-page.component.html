@@ -1,17 +1,13 @@
-<app-card>
+<app-card [levelClass]="levelClass()">
   @if (game.currentQuestion(); as q) {
 
     <!-- Header: progress + score -->
     <div class="d-flex justify-content-between align-items-center mb-3">
-      <small class="opacity-75">
-        Pytanie {{ game.questionsAnswered() + 1 }} / 25
-      </small>
-      <span class="badge bg-secondary fs-6">
+      <small class="opacity-75">Pytanie {{ game.questionsAnswered() + 1 }} / 25</small>
+      <span class="badge fs-6" [class]="'badge level-badge ' + levelClass()">
         🏆 {{ game.score() }} pkt
       </span>
-      <span class="badge bg-dark border">
-        Poziom {{ game.currentDifficulty() }}
-      </span>
+      <span class="badge border opacity-75">Poziom {{ game.currentDifficulty() }}</span>
     </div>
 
     <!-- Progress bar -->
@@ -19,9 +15,7 @@
          [attr.aria-valuenow]="game.progress()"
          aria-valuemin="0" aria-valuemax="100"
          [attr.aria-label]="'Postęp quizu: ' + game.progress() + '%'">
-      <div class="progress-bar bg-primary"
-           [style.width.%]="game.progress()">
-      </div>
+      <div class="progress-bar level-progress" [style.width.%]="game.progress()"></div>
     </div>
 
     <!-- Question -->
@@ -29,18 +23,18 @@
       <app-question-display [question]="q.question" />
     </div>
 
-    <!-- Answer buttons -->
-    <div class="d-grid gap-2 mb-3">
+    <!-- Answer buttons — horizontal -->
+    <div class="d-flex gap-2 mb-3 flex-wrap justify-content-center">
       @for (answer of q.answers; track answer.id) {
         <button
           type="button"
-          class="btn btn-lg text-start"
+          class="btn btn-lg answer-btn flex-fill"
           [class.btn-outline-light]="selectedAnswerId() !== answer.id"
-          [class.btn-primary]="selectedAnswerId() === answer.id"
+          [class.answer-btn--selected]="selectedAnswerId() === answer.id"
           [attr.aria-pressed]="selectedAnswerId() === answer.id"
           (click)="select(answer.id)"
         >
-          <span class="fw-bold me-2">{{ answer.id | uppercase }})</span>{{ answer.label }}
+          {{ answer.label }}
         </button>
       }
     </div>
@@ -49,11 +43,11 @@
     <div class="d-grid">
       <button
         type="button"
-        class="btn btn-success btn-lg"
-        [disabled]="!answered()"
+        class="btn btn-lg level-confirm-btn"
+        [disabled]="selectedAnswerId() === null"
         (click)="confirm()"
       >
-        Zatwierdź odpowiedź ✔
+        Zatwierdź ✔
       </button>
     </div>
 
@@ -61,4 +55,3 @@
     <p class="text-center opacity-75 mb-0">Ładowanie pytania...</p>
   }
 </app-card>
-

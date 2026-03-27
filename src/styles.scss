@@ -8,6 +8,13 @@
   --color-card-border: #2e4269;
   --color-card-shadow: rgba(0, 0, 0, 0.45);
   --color-text:        #e8eef7;
+
+  // Level colour scale: blue → teal → yellow → orange → red
+  --level-1-color: #4a9eff;
+  --level-2-color: #29c99f;
+  --level-3-color: #f5c842;
+  --level-4-color: #f57c29;
+  --level-5-color: #f04040;
 }
 
 // ── Global resets ─────────────────────────────────────────────────────────
@@ -15,6 +22,54 @@ body {
   background-color: var(--color-page-bg);
   color: var(--color-text);
   font-family: "Segoe UI", system-ui, sans-serif;
+}
+
+// ── Level-aware card styles ────────────────────────────────────────────────
+// Each level class overrides --level-color used by children
+@each $level in 1, 2, 3, 4, 5 {
+  .level-#{$level} {
+    --level-color: var(--level-#{$level}-color);
+    border-color: var(--level-color) !important;
+    box-shadow: 0 0 24px rgba(0, 0, 0, 0.4), 0 0 0 1px var(--level-color);
+    transition: border-color 0.4s ease, box-shadow 0.4s ease;
+  }
+}
+
+// Progress bar inherits level colour
+.level-progress {
+  background-color: var(--level-color, var(--level-1-color));
+  transition: background-color 0.4s ease;
+}
+
+// Score badge inherits level colour
+.level-badge {
+  background-color: var(--level-color, var(--level-1-color)) !important;
+  color: #111d2e !important;
+}
+
+// Selected answer button
+.answer-btn--selected {
+  background-color: var(--level-color, var(--level-1-color)) !important;
+  border-color: var(--level-color, var(--level-1-color)) !important;
+  color: #111d2e !important;
+  font-weight: 700;
+}
+
+// Confirm button inherits level colour
+.level-confirm-btn {
+  background-color: var(--level-color, var(--level-1-color));
+  border-color: var(--level-color, var(--level-1-color));
+  color: #111d2e;
+  font-weight: 600;
+
+  &:hover:not(:disabled) {
+    filter: brightness(1.1);
+  }
+
+  &:disabled {
+    opacity: 0.35;
+    cursor: not-allowed;
+  }
 }
 
 

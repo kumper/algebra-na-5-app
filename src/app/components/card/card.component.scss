@@ -4,10 +4,6 @@
   min-height: 100dvh;
 }
 
-.quiz-card {
-  // full-height stretch so the outer flex centres the inner card vertically
-}
-
 .quiz-card__inner {
   background-color: var(--color-card-bg);
   border-color: var(--color-card-border) !important;
@@ -15,5 +11,6 @@
   color: var(--color-text);
   max-width: 560px;
   min-width: 300px;
+  transition: border-color 0.4s ease, box-shadow 0.4s ease;
 }
 
