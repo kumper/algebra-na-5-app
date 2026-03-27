@@ -1,0 +1,2002 @@
+[
+  {
+    "id": 201,
+    "question": "11 + _ = 17",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "6"
+      },
+      {
+        "id": "b",
+        "label": "5"
+      },
+      {
+        "id": "c",
+        "label": "7"
+      }
+    ],
+    "correctAnswerId": "a"
+  },
+  {
+    "id": 202,
+    "question": "28 - 12 = ?",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "15"
+      },
+      {
+        "id": "b",
+        "label": "16"
+      },
+      {
+        "id": "c",
+        "label": "17"
+      }
+    ],
+    "correctAnswerId": "b"
+  },
+  {
+    "id": 203,
+    "question": "_ - 12 = 13",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "24"
+      },
+      {
+        "id": "b",
+        "label": "26"
+      },
+      {
+        "id": "c",
+        "label": "25"
+      }
+    ],
+    "correctAnswerId": "c"
+  },
+  {
+    "id": 204,
+    "question": "34 + _ = 50",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "16"
+      },
+      {
+        "id": "b",
+        "label": "15"
+      },
+      {
+        "id": "c",
+        "label": "17"
+      }
+    ],
+    "correctAnswerId": "a"
+  },
+  {
+    "id": 205,
+    "question": "45 - 18 = ?",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "26"
+      },
+      {
+        "id": "b",
+        "label": "27"
+      },
+      {
+        "id": "c",
+        "label": "28"
+      }
+    ],
+    "correctAnswerId": "b"
+  },
+  {
+    "id": 206,
+    "question": "_ + 14 = 33",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "18"
+      },
+      {
+        "id": "b",
+        "label": "20"
+      },
+      {
+        "id": "c",
+        "label": "19"
+      }
+    ],
+    "correctAnswerId": "c"
+  },
+  {
+    "id": 207,
+    "question": "22 + 19 = ?",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "41"
+      },
+      {
+        "id": "b",
+        "label": "40"
+      },
+      {
+        "id": "c",
+        "label": "42"
+      }
+    ],
+    "correctAnswerId": "a"
+  },
+  {
+    "id": 208,
+    "question": "50 - _ = 23",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "26"
+      },
+      {
+        "id": "b",
+        "label": "27"
+      },
+      {
+        "id": "c",
+        "label": "28"
+      }
+    ],
+    "correctAnswerId": "b"
+  },
+  {
+    "id": 209,
+    "question": "_ - 15 = 22",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "36"
+      },
+      {
+        "id": "b",
+        "label": "38"
+      },
+      {
+        "id": "c",
+        "label": "37"
+      }
+    ],
+    "correctAnswerId": "c"
+  },
+  {
+    "id": 210,
+    "question": "18 + _ = 40",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "22"
+      },
+      {
+        "id": "b",
+        "label": "21"
+      },
+      {
+        "id": "c",
+        "label": "23"
+      }
+    ],
+    "correctAnswerId": "a"
+  },
+  {
+    "id": 211,
+    "question": "47 - 19 = ?",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "27"
+      },
+      {
+        "id": "b",
+        "label": "28"
+      },
+      {
+        "id": "c",
+        "label": "29"
+      }
+    ],
+    "correctAnswerId": "b"
+  },
+  {
+    "id": 212,
+    "question": "_ + 21 = 45",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "23"
+      },
+      {
+        "id": "b",
+        "label": "25"
+      },
+      {
+        "id": "c",
+        "label": "24"
+      }
+    ],
+    "correctAnswerId": "c"
+  },
+  {
+    "id": 213,
+    "question": "31 + 14 = ?",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "45"
+      },
+      {
+        "id": "b",
+        "label": "44"
+      },
+      {
+        "id": "c",
+        "label": "46"
+      }
+    ],
+    "correctAnswerId": "a"
+  },
+  {
+    "id": 214,
+    "question": "_ - 18 = 17",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "34"
+      },
+      {
+        "id": "b",
+        "label": "35"
+      },
+      {
+        "id": "c",
+        "label": "36"
+      }
+    ],
+    "correctAnswerId": "b"
+  },
+  {
+    "id": 215,
+    "question": "26 + _ = 48",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "21"
+      },
+      {
+        "id": "b",
+        "label": "23"
+      },
+      {
+        "id": "c",
+        "label": "22"
+      }
+    ],
+    "correctAnswerId": "c"
+  },
+  {
+    "id": 216,
+    "question": "50 - 27 = ?",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "23"
+      },
+      {
+        "id": "b",
+        "label": "22"
+      },
+      {
+        "id": "c",
+        "label": "24"
+      }
+    ],
+    "correctAnswerId": "a"
+  },
+  {
+    "id": 217,
+    "question": "_ + 17 = 36",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "18"
+      },
+      {
+        "id": "b",
+        "label": "19"
+      },
+      {
+        "id": "c",
+        "label": "20"
+      }
+    ],
+    "correctAnswerId": "b"
+  },
+  {
+    "id": 218,
+    "question": "43 - 16 = ?",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "26"
+      },
+      {
+        "id": "b",
+        "label": "28"
+      },
+      {
+        "id": "c",
+        "label": "27"
+      }
+    ],
+    "correctAnswerId": "c"
+  },
+  {
+    "id": 219,
+    "question": "15 + _ = 34",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "19"
+      },
+      {
+        "id": "b",
+        "label": "18"
+      },
+      {
+        "id": "c",
+        "label": "20"
+      }
+    ],
+    "correctAnswerId": "a"
+  },
+  {
+    "id": 220,
+    "question": "_ - 24 = 14",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "37"
+      },
+      {
+        "id": "b",
+        "label": "38"
+      },
+      {
+        "id": "c",
+        "label": "39"
+      }
+    ],
+    "correctAnswerId": "b"
+  },
+  {
+    "id": 221,
+    "question": "29 + 13 = ?",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "41"
+      },
+      {
+        "id": "b",
+        "label": "43"
+      },
+      {
+        "id": "c",
+        "label": "42"
+      }
+    ],
+    "correctAnswerId": "c"
+  },
+  {
+    "id": 222,
+    "question": "_ + 28 = 50",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "22"
+      },
+      {
+        "id": "b",
+        "label": "21"
+      },
+      {
+        "id": "c",
+        "label": "23"
+      }
+    ],
+    "correctAnswerId": "a"
+  },
+  {
+    "id": 223,
+    "question": "48 - 23 = ?",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "24"
+      },
+      {
+        "id": "b",
+        "label": "25"
+      },
+      {
+        "id": "c",
+        "label": "26"
+      }
+    ],
+    "correctAnswerId": "b"
+  },
+  {
+    "id": 224,
+    "question": "_ - 19 = 21",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "39"
+      },
+      {
+        "id": "b",
+        "label": "41"
+      },
+      {
+        "id": "c",
+        "label": "40"
+      }
+    ],
+    "correctAnswerId": "c"
+  },
+  {
+    "id": 225,
+    "question": "17 + _ = 42",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "25"
+      },
+      {
+        "id": "b",
+        "label": "24"
+      },
+      {
+        "id": "c",
+        "label": "26"
+      }
+    ],
+    "correctAnswerId": "a"
+  },
+  {
+    "id": 226,
+    "question": "36 + 11 = ?",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "46"
+      },
+      {
+        "id": "b",
+        "label": "47"
+      },
+      {
+        "id": "c",
+        "label": "48"
+      }
+    ],
+    "correctAnswerId": "b"
+  },
+  {
+    "id": 227,
+    "question": "50 - _ = 31",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "18"
+      },
+      {
+        "id": "b",
+        "label": "20"
+      },
+      {
+        "id": "c",
+        "label": "19"
+      }
+    ],
+    "correctAnswerId": "c"
+  },
+  {
+    "id": 228,
+    "question": "_ + 13 = 30",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "17"
+      },
+      {
+        "id": "b",
+        "label": "16"
+      },
+      {
+        "id": "c",
+        "label": "18"
+      }
+    ],
+    "correctAnswerId": "a"
+  },
+  {
+    "id": 229,
+    "question": "44 - 17 = ?",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "26"
+      },
+      {
+        "id": "b",
+        "label": "27"
+      },
+      {
+        "id": "c",
+        "label": "28"
+      }
+    ],
+    "correctAnswerId": "b"
+  },
+  {
+    "id": 230,
+    "question": "_ - 16 = 18",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "33"
+      },
+      {
+        "id": "b",
+        "label": "35"
+      },
+      {
+        "id": "c",
+        "label": "34"
+      }
+    ],
+    "correctAnswerId": "c"
+  },
+  {
+    "id": 231,
+    "question": "23 + _ = 47",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "24"
+      },
+      {
+        "id": "b",
+        "label": "23"
+      },
+      {
+        "id": "c",
+        "label": "25"
+      }
+    ],
+    "correctAnswerId": "a"
+  },
+  {
+    "id": 232,
+    "question": "41 - 14 = ?",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "26"
+      },
+      {
+        "id": "b",
+        "label": "27"
+      },
+      {
+        "id": "c",
+        "label": "28"
+      }
+    ],
+    "correctAnswerId": "b"
+  },
+  {
+    "id": 233,
+    "question": "_ + 22 = 49",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "26"
+      },
+      {
+        "id": "b",
+        "label": "28"
+      },
+      {
+        "id": "c",
+        "label": "27"
+      }
+    ],
+    "correctAnswerId": "c"
+  },
+  {
+    "id": 234,
+    "question": "32 + 15 = ?",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "47"
+      },
+      {
+        "id": "b",
+        "label": "46"
+      },
+      {
+        "id": "c",
+        "label": "48"
+      }
+    ],
+    "correctAnswerId": "a"
+  },
+  {
+    "id": 235,
+    "question": "_ - 21 = 16",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "36"
+      },
+      {
+        "id": "b",
+        "label": "37"
+      },
+      {
+        "id": "c",
+        "label": "38"
+      }
+    ],
+    "correctAnswerId": "b"
+  },
+  {
+    "id": 236,
+    "question": "19 + _ = 38",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "18"
+      },
+      {
+        "id": "b",
+        "label": "20"
+      },
+      {
+        "id": "c",
+        "label": "19"
+      }
+    ],
+    "correctAnswerId": "c"
+  },
+  {
+    "id": 237,
+    "question": "46 - 28 = ?",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "18"
+      },
+      {
+        "id": "b",
+        "label": "17"
+      },
+      {
+        "id": "c",
+        "label": "19"
+      }
+    ],
+    "correctAnswerId": "a"
+  },
+  {
+    "id": 238,
+    "question": "_ + 16 = 35",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "18"
+      },
+      {
+        "id": "b",
+        "label": "19"
+      },
+      {
+        "id": "c",
+        "label": "20"
+      }
+    ],
+    "correctAnswerId": "b"
+  },
+  {
+    "id": 239,
+    "question": "50 - _ = 14",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "35"
+      },
+      {
+        "id": "b",
+        "label": "37"
+      },
+      {
+        "id": "c",
+        "label": "36"
+      }
+    ],
+    "correctAnswerId": "c"
+  },
+  {
+    "id": 240,
+    "question": "_ - 13 = 24",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "37"
+      },
+      {
+        "id": "b",
+        "label": "36"
+      },
+      {
+        "id": "c",
+        "label": "38"
+      }
+    ],
+    "correctAnswerId": "a"
+  },
+  {
+    "id": 241,
+    "question": "24 + 18 = ?",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "41"
+      },
+      {
+        "id": "b",
+        "label": "42"
+      },
+      {
+        "id": "c",
+        "label": "43"
+      }
+    ],
+    "correctAnswerId": "b"
+  },
+  {
+    "id": 242,
+    "question": "_ + 19 = 44",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "24"
+      },
+      {
+        "id": "b",
+        "label": "26"
+      },
+      {
+        "id": "c",
+        "label": "25"
+      }
+    ],
+    "correctAnswerId": "c"
+  },
+  {
+    "id": 243,
+    "question": "49 - 22 = ?",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "27"
+      },
+      {
+        "id": "b",
+        "label": "26"
+      },
+      {
+        "id": "c",
+        "label": "28"
+      }
+    ],
+    "correctAnswerId": "a"
+  },
+  {
+    "id": 244,
+    "question": "_ - 17 = 19",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "35"
+      },
+      {
+        "id": "b",
+        "label": "36"
+      },
+      {
+        "id": "c",
+        "label": "37"
+      }
+    ],
+    "correctAnswerId": "b"
+  },
+  {
+    "id": 245,
+    "question": "28 + _ = 50",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "21"
+      },
+      {
+        "id": "b",
+        "label": "23"
+      },
+      {
+        "id": "c",
+        "label": "22"
+      }
+    ],
+    "correctAnswerId": "c"
+  },
+  {
+    "id": 246,
+    "question": "38 + 12 = ?",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "50"
+      },
+      {
+        "id": "b",
+        "label": "49"
+      },
+      {
+        "id": "c",
+        "label": "51"
+      }
+    ],
+    "correctAnswerId": "a"
+  },
+  {
+    "id": 247,
+    "question": "_ + 11 = 29",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "17"
+      },
+      {
+        "id": "b",
+        "label": "18"
+      },
+      {
+        "id": "c",
+        "label": "19"
+      }
+    ],
+    "correctAnswerId": "b"
+  },
+  {
+    "id": 248,
+    "question": "42 - 25 = ?",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "16"
+      },
+      {
+        "id": "b",
+        "label": "18"
+      },
+      {
+        "id": "c",
+        "label": "17"
+      }
+    ],
+    "correctAnswerId": "c"
+  },
+  {
+    "id": 249,
+    "question": "_ - 14 = 23",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "37"
+      },
+      {
+        "id": "b",
+        "label": "36"
+      },
+      {
+        "id": "c",
+        "label": "38"
+      }
+    ],
+    "correctAnswerId": "a"
+  },
+  {
+    "id": 250,
+    "question": "21 + _ = 46",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "24"
+      },
+      {
+        "id": "b",
+        "label": "25"
+      },
+      {
+        "id": "c",
+        "label": "26"
+      }
+    ],
+    "correctAnswerId": "b"
+  },
+  {
+    "id": 251,
+    "question": "33 + 14 = ?",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "46"
+      },
+      {
+        "id": "b",
+        "label": "48"
+      },
+      {
+        "id": "c",
+        "label": "47"
+      }
+    ],
+    "correctAnswerId": "c"
+  },
+  {
+    "id": 252,
+    "question": "50 - _ = 18",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "32"
+      },
+      {
+        "id": "b",
+        "label": "31"
+      },
+      {
+        "id": "c",
+        "label": "33"
+      }
+    ],
+    "correctAnswerId": "a"
+  },
+  {
+    "id": 253,
+    "question": "_ + 23 = 47",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "23"
+      },
+      {
+        "id": "b",
+        "label": "24"
+      },
+      {
+        "id": "c",
+        "label": "25"
+      }
+    ],
+    "correctAnswerId": "b"
+  },
+  {
+    "id": 254,
+    "question": "45 - 26 = ?",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "18"
+      },
+      {
+        "id": "b",
+        "label": "20"
+      },
+      {
+        "id": "c",
+        "label": "19"
+      }
+    ],
+    "correctAnswerId": "c"
+  },
+  {
+    "id": 255,
+    "question": "_ - 22 = 15",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "37"
+      },
+      {
+        "id": "b",
+        "label": "36"
+      },
+      {
+        "id": "c",
+        "label": "38"
+      }
+    ],
+    "correctAnswerId": "a"
+  },
+  {
+    "id": 256,
+    "question": "16 + _ = 39",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "22"
+      },
+      {
+        "id": "b",
+        "label": "23"
+      },
+      {
+        "id": "c",
+        "label": "24"
+      }
+    ],
+    "correctAnswerId": "b"
+  },
+  {
+    "id": 257,
+    "question": "40 - 13 = ?",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "26"
+      },
+      {
+        "id": "b",
+        "label": "28"
+      },
+      {
+        "id": "c",
+        "label": "27"
+      }
+    ],
+    "correctAnswerId": "c"
+  },
+  {
+    "id": 258,
+    "question": "_ + 26 = 50",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "24"
+      },
+      {
+        "id": "b",
+        "label": "23"
+      },
+      {
+        "id": "c",
+        "label": "25"
+      }
+    ],
+    "correctAnswerId": "a"
+  },
+  {
+    "id": 259,
+    "question": "_ - 11 = 27",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "37"
+      },
+      {
+        "id": "b",
+        "label": "38"
+      },
+      {
+        "id": "c",
+        "label": "39"
+      }
+    ],
+    "correctAnswerId": "b"
+  },
+  {
+    "id": 260,
+    "question": "27 + 16 = ?",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "42"
+      },
+      {
+        "id": "b",
+        "label": "44"
+      },
+      {
+        "id": "c",
+        "label": "43"
+      }
+    ],
+    "correctAnswerId": "c"
+  },
+  {
+    "id": 261,
+    "question": "_ + 18 = 41",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "23"
+      },
+      {
+        "id": "b",
+        "label": "22"
+      },
+      {
+        "id": "c",
+        "label": "24"
+      }
+    ],
+    "correctAnswerId": "a"
+  },
+  {
+    "id": 262,
+    "question": "50 - 24 = ?",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "25"
+      },
+      {
+        "id": "b",
+        "label": "26"
+      },
+      {
+        "id": "c",
+        "label": "27"
+      }
+    ],
+    "correctAnswerId": "b"
+  },
+  {
+    "id": 263,
+    "question": "_ - 20 = 18",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "37"
+      },
+      {
+        "id": "b",
+        "label": "39"
+      },
+      {
+        "id": "c",
+        "label": "38"
+      }
+    ],
+    "correctAnswerId": "c"
+  },
+  {
+    "id": 264,
+    "question": "25 + _ = 44",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "19"
+      },
+      {
+        "id": "b",
+        "label": "18"
+      },
+      {
+        "id": "c",
+        "label": "20"
+      }
+    ],
+    "correctAnswerId": "a"
+  },
+  {
+    "id": 265,
+    "question": "39 + 11 = ?",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "49"
+      },
+      {
+        "id": "b",
+        "label": "50"
+      },
+      {
+        "id": "c",
+        "label": "51"
+      }
+    ],
+    "correctAnswerId": "b"
+  },
+  {
+    "id": 266,
+    "question": "_ + 15 = 32",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "16"
+      },
+      {
+        "id": "b",
+        "label": "18"
+      },
+      {
+        "id": "c",
+        "label": "17"
+      }
+    ],
+    "correctAnswerId": "c"
+  },
+  {
+    "id": 267,
+    "question": "47 - 21 = ?",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "26"
+      },
+      {
+        "id": "b",
+        "label": "25"
+      },
+      {
+        "id": "c",
+        "label": "27"
+      }
+    ],
+    "correctAnswerId": "a"
+  },
+  {
+    "id": 268,
+    "question": "_ - 23 = 12",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "34"
+      },
+      {
+        "id": "b",
+        "label": "35"
+      },
+      {
+        "id": "c",
+        "label": "36"
+      }
+    ],
+    "correctAnswerId": "b"
+  },
+  {
+    "id": 269,
+    "question": "20 + _ = 43",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "22"
+      },
+      {
+        "id": "b",
+        "label": "24"
+      },
+      {
+        "id": "c",
+        "label": "23"
+      }
+    ],
+    "correctAnswerId": "c"
+  },
+  {
+    "id": 270,
+    "question": "35 + 13 = ?",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "48"
+      },
+      {
+        "id": "b",
+        "label": "47"
+      },
+      {
+        "id": "c",
+        "label": "49"
+      }
+    ],
+    "correctAnswerId": "a"
+  },
+  {
+    "id": 271,
+    "question": "50 - _ = 22",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "27"
+      },
+      {
+        "id": "b",
+        "label": "28"
+      },
+      {
+        "id": "c",
+        "label": "29"
+      }
+    ],
+    "correctAnswerId": "b"
+  },
+  {
+    "id": 272,
+    "question": "_ + 20 = 46",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "25"
+      },
+      {
+        "id": "b",
+        "label": "27"
+      },
+      {
+        "id": "c",
+        "label": "26"
+      }
+    ],
+    "correctAnswerId": "c"
+  },
+  {
+    "id": 273,
+    "question": "43 - 18 = ?",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "25"
+      },
+      {
+        "id": "b",
+        "label": "24"
+      },
+      {
+        "id": "c",
+        "label": "26"
+      }
+    ],
+    "correctAnswerId": "a"
+  },
+  {
+    "id": 274,
+    "question": "_ - 25 = 13",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "37"
+      },
+      {
+        "id": "b",
+        "label": "38"
+      },
+      {
+        "id": "c",
+        "label": "39"
+      }
+    ],
+    "correctAnswerId": "b"
+  },
+  {
+    "id": 275,
+    "question": "14 + _ = 37",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "22"
+      },
+      {
+        "id": "b",
+        "label": "24"
+      },
+      {
+        "id": "c",
+        "label": "23"
+      }
+    ],
+    "correctAnswerId": "c"
+  },
+  {
+    "id": 276,
+    "question": "30 + 17 = ?",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "47"
+      },
+      {
+        "id": "b",
+        "label": "46"
+      },
+      {
+        "id": "c",
+        "label": "48"
+      }
+    ],
+    "correctAnswerId": "a"
+  },
+  {
+    "id": 277,
+    "question": "_ + 24 = 48",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "23"
+      },
+      {
+        "id": "b",
+        "label": "24"
+      },
+      {
+        "id": "c",
+        "label": "25"
+      }
+    ],
+    "correctAnswerId": "b"
+  },
+  {
+    "id": 278,
+    "question": "48 - 19 = ?",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "28"
+      },
+      {
+        "id": "b",
+        "label": "30"
+      },
+      {
+        "id": "c",
+        "label": "29"
+      }
+    ],
+    "correctAnswerId": "c"
+  },
+  {
+    "id": 279,
+    "question": "_ - 26 = 11",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "37"
+      },
+      {
+        "id": "b",
+        "label": "36"
+      },
+      {
+        "id": "c",
+        "label": "38"
+      }
+    ],
+    "correctAnswerId": "a"
+  },
+  {
+    "id": 280,
+    "question": "22 + _ = 45",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "22"
+      },
+      {
+        "id": "b",
+        "label": "23"
+      },
+      {
+        "id": "c",
+        "label": "24"
+      }
+    ],
+    "correctAnswerId": "b"
+  },
+  {
+    "id": 281,
+    "question": "37 + 12 = ?",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "48"
+      },
+      {
+        "id": "b",
+        "label": "50"
+      },
+      {
+        "id": "c",
+        "label": "49"
+      }
+    ],
+    "correctAnswerId": "c"
+  },
+  {
+    "id": 282,
+    "question": "_ + 27 = 50",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "23"
+      },
+      {
+        "id": "b",
+        "label": "22"
+      },
+      {
+        "id": "c",
+        "label": "24"
+      }
+    ],
+    "correctAnswerId": "a"
+  },
+  {
+    "id": 283,
+    "question": "46 - 24 = ?",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "21"
+      },
+      {
+        "id": "b",
+        "label": "22"
+      },
+      {
+        "id": "c",
+        "label": "23"
+      }
+    ],
+    "correctAnswerId": "b"
+  },
+  {
+    "id": 284,
+    "question": "_ - 28 = 12",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "39"
+      },
+      {
+        "id": "b",
+        "label": "41"
+      },
+      {
+        "id": "c",
+        "label": "40"
+      }
+    ],
+    "correctAnswerId": "c"
+  },
+  {
+    "id": 285,
+    "question": "13 + _ = 36",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "23"
+      },
+      {
+        "id": "b",
+        "label": "22"
+      },
+      {
+        "id": "c",
+        "label": "24"
+      }
+    ],
+    "correctAnswerId": "a"
+  },
+  {
+    "id": 286,
+    "question": "41 + 9 = ?",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "49"
+      },
+      {
+        "id": "b",
+        "label": "50"
+      },
+      {
+        "id": "c",
+        "label": "51"
+      }
+    ],
+    "correctAnswerId": "b"
+  },
+  {
+    "id": 287,
+    "question": "_ + 12 = 31",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "18"
+      },
+      {
+        "id": "b",
+        "label": "20"
+      },
+      {
+        "id": "c",
+        "label": "19"
+      }
+    ],
+    "correctAnswerId": "c"
+  },
+  {
+    "id": 288,
+    "question": "49 - 26 = ?",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "23"
+      },
+      {
+        "id": "b",
+        "label": "22"
+      },
+      {
+        "id": "c",
+        "label": "24"
+      }
+    ],
+    "correctAnswerId": "a"
+  },
+  {
+    "id": 289,
+    "question": "_ - 29 = 14",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "42"
+      },
+      {
+        "id": "b",
+        "label": "43"
+      },
+      {
+        "id": "c",
+        "label": "44"
+      }
+    ],
+    "correctAnswerId": "b"
+  },
+  {
+    "id": 290,
+    "question": "24 + _ = 50",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "25"
+      },
+      {
+        "id": "b",
+        "label": "27"
+      },
+      {
+        "id": "c",
+        "label": "26"
+      }
+    ],
+    "correctAnswerId": "c"
+  },
+  {
+    "id": 291,
+    "question": "36 + 13 = ?",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "49"
+      },
+      {
+        "id": "b",
+        "label": "48"
+      },
+      {
+        "id": "c",
+        "label": "50"
+      }
+    ],
+    "correctAnswerId": "a"
+  },
+  {
+    "id": 292,
+    "question": "50 - _ = 27",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "22"
+      },
+      {
+        "id": "b",
+        "label": "23"
+      },
+      {
+        "id": "c",
+        "label": "24"
+      }
+    ],
+    "correctAnswerId": "b"
+  },
+  {
+    "id": 293,
+    "question": "_ + 25 = 49",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "23"
+      },
+      {
+        "id": "b",
+        "label": "25"
+      },
+      {
+        "id": "c",
+        "label": "24"
+      }
+    ],
+    "correctAnswerId": "c"
+  },
+  {
+    "id": 294,
+    "question": "44 - 21 = ?",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "23"
+      },
+      {
+        "id": "b",
+        "label": "22"
+      },
+      {
+        "id": "c",
+        "label": "24"
+      }
+    ],
+    "correctAnswerId": "a"
+  },
+  {
+    "id": 295,
+    "question": "_ - 27 = 16",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "42"
+      },
+      {
+        "id": "b",
+        "label": "43"
+      },
+      {
+        "id": "c",
+        "label": "44"
+      }
+    ],
+    "correctAnswerId": "b"
+  },
+  {
+    "id": 296,
+    "question": "18 + _ = 44",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "25"
+      },
+      {
+        "id": "b",
+        "label": "27"
+      },
+      {
+        "id": "c",
+        "label": "26"
+      }
+    ],
+    "correctAnswerId": "c"
+  },
+  {
+    "id": 297,
+    "question": "42 + 8 = ?",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "50"
+      },
+      {
+        "id": "b",
+        "label": "49"
+      },
+      {
+        "id": "c",
+        "label": "51"
+      }
+    ],
+    "correctAnswerId": "a"
+  },
+  {
+    "id": 298,
+    "question": "_ + 29 = 50",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "20"
+      },
+      {
+        "id": "b",
+        "label": "21"
+      },
+      {
+        "id": "c",
+        "label": "22"
+      }
+    ],
+    "correctAnswerId": "b"
+  },
+  {
+    "id": 299,
+    "question": "47 - 28 = ?",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "18"
+      },
+      {
+        "id": "b",
+        "label": "20"
+      },
+      {
+        "id": "c",
+        "label": "19"
+      }
+    ],
+    "correctAnswerId": "c"
+  },
+  {
+    "id": 300,
+    "question": "_ - 30 = 15",
+    "difficulty": 2,
+    "answers": [
+      {
+        "id": "a",
+        "label": "45"
+      },
+      {
+        "id": "b",
+        "label": "44"
+      },
+      {
+        "id": "c",
+        "label": "46"
+      }
+    ],
+    "correctAnswerId": "a"
+  }
+]

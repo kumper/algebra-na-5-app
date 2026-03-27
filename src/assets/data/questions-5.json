@@ -1,0 +1,2002 @@
+[
+  {
+    "id": 501,
+    "question": "144 / _ = 12",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "12"
+      },
+      {
+        "id": "b",
+        "label": "11"
+      },
+      {
+        "id": "c",
+        "label": "13"
+      }
+    ],
+    "correctAnswerId": "a"
+  },
+  {
+    "id": 502,
+    "question": "4 ^ 5 = ?",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "1022"
+      },
+      {
+        "id": "b",
+        "label": "1024"
+      },
+      {
+        "id": "c",
+        "label": "1026"
+      }
+    ],
+    "correctAnswerId": "b"
+  },
+  {
+    "id": 503,
+    "question": "826 - _ = 127",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "698"
+      },
+      {
+        "id": "b",
+        "label": "700"
+      },
+      {
+        "id": "c",
+        "label": "699"
+      }
+    ],
+    "correctAnswerId": "c"
+  },
+  {
+    "id": 504,
+    "question": "_ ^ 4 = 81",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "3"
+      },
+      {
+        "id": "b",
+        "label": "2"
+      },
+      {
+        "id": "c",
+        "label": "4"
+      }
+    ],
+    "correctAnswerId": "a"
+  },
+  {
+    "id": 505,
+    "question": "48 * _ = 960",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "19"
+      },
+      {
+        "id": "b",
+        "label": "20"
+      },
+      {
+        "id": "c",
+        "label": "21"
+      }
+    ],
+    "correctAnswerId": "b"
+  },
+  {
+    "id": 506,
+    "question": "_ + 567 = 1000",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "432"
+      },
+      {
+        "id": "b",
+        "label": "434"
+      },
+      {
+        "id": "c",
+        "label": "433"
+      }
+    ],
+    "correctAnswerId": "c"
+  },
+  {
+    "id": 507,
+    "question": "2 ^ 10 = ?",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "1024"
+      },
+      {
+        "id": "b",
+        "label": "1022"
+      },
+      {
+        "id": "c",
+        "label": "1026"
+      }
+    ],
+    "correctAnswerId": "a"
+  },
+  {
+    "id": 508,
+    "question": "1000 / _ = 25",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "39"
+      },
+      {
+        "id": "b",
+        "label": "40"
+      },
+      {
+        "id": "c",
+        "label": "41"
+      }
+    ],
+    "correctAnswerId": "b"
+  },
+  {
+    "id": 509,
+    "question": "_ - 384 = 519",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "902"
+      },
+      {
+        "id": "b",
+        "label": "904"
+      },
+      {
+        "id": "c",
+        "label": "903"
+      }
+    ],
+    "correctAnswerId": "c"
+  },
+  {
+    "id": 510,
+    "question": "3 ^ 5 = ?",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "243"
+      },
+      {
+        "id": "b",
+        "label": "241"
+      },
+      {
+        "id": "c",
+        "label": "245"
+      }
+    ],
+    "correctAnswerId": "a"
+  },
+  {
+    "id": 511,
+    "question": "37 * _ = 777",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "20"
+      },
+      {
+        "id": "b",
+        "label": "21"
+      },
+      {
+        "id": "c",
+        "label": "22"
+      }
+    ],
+    "correctAnswerId": "b"
+  },
+  {
+    "id": 512,
+    "question": "_ + 438 = 900",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "461"
+      },
+      {
+        "id": "b",
+        "label": "463"
+      },
+      {
+        "id": "c",
+        "label": "462"
+      }
+    ],
+    "correctAnswerId": "c"
+  },
+  {
+    "id": 513,
+    "question": "_ ^ 4 = 256",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "4"
+      },
+      {
+        "id": "b",
+        "label": "3"
+      },
+      {
+        "id": "c",
+        "label": "5"
+      }
+    ],
+    "correctAnswerId": "a"
+  },
+  {
+    "id": 514,
+    "question": "840 / 24 = ?",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "34"
+      },
+      {
+        "id": "b",
+        "label": "35"
+      },
+      {
+        "id": "c",
+        "label": "36"
+      }
+    ],
+    "correctAnswerId": "b"
+  },
+  {
+    "id": 515,
+    "question": "763 - _ = 298",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "464"
+      },
+      {
+        "id": "b",
+        "label": "466"
+      },
+      {
+        "id": "c",
+        "label": "465"
+      }
+    ],
+    "correctAnswerId": "c"
+  },
+  {
+    "id": 516,
+    "question": "5 ^ 4 = ?",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "625"
+      },
+      {
+        "id": "b",
+        "label": "623"
+      },
+      {
+        "id": "c",
+        "label": "627"
+      }
+    ],
+    "correctAnswerId": "a"
+  },
+  {
+    "id": 517,
+    "question": "_ * 32 = 960",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "29"
+      },
+      {
+        "id": "b",
+        "label": "30"
+      },
+      {
+        "id": "c",
+        "label": "31"
+      }
+    ],
+    "correctAnswerId": "b"
+  },
+  {
+    "id": 518,
+    "question": "_ + 629 = 1000",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "370"
+      },
+      {
+        "id": "b",
+        "label": "372"
+      },
+      {
+        "id": "c",
+        "label": "371"
+      }
+    ],
+    "correctAnswerId": "c"
+  },
+  {
+    "id": 519,
+    "question": "2 ^ 5 = ?",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "32"
+      },
+      {
+        "id": "b",
+        "label": "30"
+      },
+      {
+        "id": "c",
+        "label": "34"
+      }
+    ],
+    "correctAnswerId": "a"
+  },
+  {
+    "id": 520,
+    "question": "900 / _ = 36",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "24"
+      },
+      {
+        "id": "b",
+        "label": "25"
+      },
+      {
+        "id": "c",
+        "label": "26"
+      }
+    ],
+    "correctAnswerId": "b"
+  },
+  {
+    "id": 521,
+    "question": "_ - 473 = 364",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "836"
+      },
+      {
+        "id": "b",
+        "label": "838"
+      },
+      {
+        "id": "c",
+        "label": "837"
+      }
+    ],
+    "correctAnswerId": "c"
+  },
+  {
+    "id": 522,
+    "question": "_ ^ 5 = 32",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "2"
+      },
+      {
+        "id": "b",
+        "label": "1"
+      },
+      {
+        "id": "c",
+        "label": "3"
+      }
+    ],
+    "correctAnswerId": "a"
+  },
+  {
+    "id": 523,
+    "question": "43 * 23 = ?",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "987"
+      },
+      {
+        "id": "b",
+        "label": "989"
+      },
+      {
+        "id": "c",
+        "label": "991"
+      }
+    ],
+    "correctAnswerId": "b"
+  },
+  {
+    "id": 524,
+    "question": "_ + 384 = 800",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "415"
+      },
+      {
+        "id": "b",
+        "label": "417"
+      },
+      {
+        "id": "c",
+        "label": "416"
+      }
+    ],
+    "correctAnswerId": "c"
+  },
+  {
+    "id": 525,
+    "question": "6 ^ 4 = ?",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "1296"
+      },
+      {
+        "id": "b",
+        "label": "1294"
+      },
+      {
+        "id": "c",
+        "label": "1298"
+      }
+    ],
+    "correctAnswerId": "a"
+  },
+  {
+    "id": 526,
+    "question": "_ * 45 = 900",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "19"
+      },
+      {
+        "id": "b",
+        "label": "20"
+      },
+      {
+        "id": "c",
+        "label": "21"
+      }
+    ],
+    "correctAnswerId": "b"
+  },
+  {
+    "id": 527,
+    "question": "948 - _ = 379",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "568"
+      },
+      {
+        "id": "b",
+        "label": "570"
+      },
+      {
+        "id": "c",
+        "label": "569"
+      }
+    ],
+    "correctAnswerId": "c"
+  },
+  {
+    "id": 528,
+    "question": "_ ^ 4 = 625",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "5"
+      },
+      {
+        "id": "b",
+        "label": "4"
+      },
+      {
+        "id": "c",
+        "label": "6"
+      }
+    ],
+    "correctAnswerId": "a"
+  },
+  {
+    "id": 529,
+    "question": "1000 / 40 = ?",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "24"
+      },
+      {
+        "id": "b",
+        "label": "25"
+      },
+      {
+        "id": "c",
+        "label": "26"
+      }
+    ],
+    "correctAnswerId": "b"
+  },
+  {
+    "id": 530,
+    "question": "_ + 512 = 1000",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "487"
+      },
+      {
+        "id": "b",
+        "label": "489"
+      },
+      {
+        "id": "c",
+        "label": "488"
+      }
+    ],
+    "correctAnswerId": "c"
+  },
+  {
+    "id": 531,
+    "question": "7 ^ 4 = ?",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "2401"
+      },
+      {
+        "id": "b",
+        "label": "2399"
+      },
+      {
+        "id": "c",
+        "label": "2403"
+      }
+    ],
+    "correctAnswerId": "a"
+  },
+  {
+    "id": 532,
+    "question": "52 * _ = 1000",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "18"
+      },
+      {
+        "id": "b",
+        "label": "19"
+      },
+      {
+        "id": "c",
+        "label": "20"
+      }
+    ],
+    "correctAnswerId": "b"
+  },
+  {
+    "id": 533,
+    "question": "_ - 529 = 418",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "946"
+      },
+      {
+        "id": "b",
+        "label": "948"
+      },
+      {
+        "id": "c",
+        "label": "947"
+      }
+    ],
+    "correctAnswerId": "c"
+  },
+  {
+    "id": 534,
+    "question": "2 ^ 4 = ?",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "16"
+      },
+      {
+        "id": "b",
+        "label": "14"
+      },
+      {
+        "id": "c",
+        "label": "18"
+      }
+    ],
+    "correctAnswerId": "a"
+  },
+  {
+    "id": 535,
+    "question": "750 / _ = 30",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "24"
+      },
+      {
+        "id": "b",
+        "label": "25"
+      },
+      {
+        "id": "c",
+        "label": "26"
+      }
+    ],
+    "correctAnswerId": "b"
+  },
+  {
+    "id": 536,
+    "question": "_ + 347 = 900",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "552"
+      },
+      {
+        "id": "b",
+        "label": "554"
+      },
+      {
+        "id": "c",
+        "label": "553"
+      }
+    ],
+    "correctAnswerId": "c"
+  },
+  {
+    "id": 537,
+    "question": "_ ^ 5 = 243",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "3"
+      },
+      {
+        "id": "b",
+        "label": "2"
+      },
+      {
+        "id": "c",
+        "label": "4"
+      }
+    ],
+    "correctAnswerId": "a"
+  },
+  {
+    "id": 538,
+    "question": "36 * 27 = ?",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "970"
+      },
+      {
+        "id": "b",
+        "label": "972"
+      },
+      {
+        "id": "c",
+        "label": "974"
+      }
+    ],
+    "correctAnswerId": "b"
+  },
+  {
+    "id": 539,
+    "question": "875 - _ = 438",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "436"
+      },
+      {
+        "id": "b",
+        "label": "438"
+      },
+      {
+        "id": "c",
+        "label": "437"
+      }
+    ],
+    "correctAnswerId": "c"
+  },
+  {
+    "id": 540,
+    "question": "3 ^ 4 = ?",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "81"
+      },
+      {
+        "id": "b",
+        "label": "79"
+      },
+      {
+        "id": "c",
+        "label": "83"
+      }
+    ],
+    "correctAnswerId": "a"
+  },
+  {
+    "id": 541,
+    "question": "_ * 38 = 760",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "19"
+      },
+      {
+        "id": "b",
+        "label": "20"
+      },
+      {
+        "id": "c",
+        "label": "21"
+      }
+    ],
+    "correctAnswerId": "b"
+  },
+  {
+    "id": 542,
+    "question": "_ + 476 = 1000",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "523"
+      },
+      {
+        "id": "b",
+        "label": "525"
+      },
+      {
+        "id": "c",
+        "label": "524"
+      }
+    ],
+    "correctAnswerId": "c"
+  },
+  {
+    "id": 543,
+    "question": "864 / _ = 32",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "27"
+      },
+      {
+        "id": "b",
+        "label": "26"
+      },
+      {
+        "id": "c",
+        "label": "28"
+      }
+    ],
+    "correctAnswerId": "a"
+  },
+  {
+    "id": 544,
+    "question": "_ ^ 4 = 1296",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "5"
+      },
+      {
+        "id": "b",
+        "label": "6"
+      },
+      {
+        "id": "c",
+        "label": "7"
+      }
+    ],
+    "correctAnswerId": "b"
+  },
+  {
+    "id": 545,
+    "question": "_ - 618 = 274",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "891"
+      },
+      {
+        "id": "b",
+        "label": "893"
+      },
+      {
+        "id": "c",
+        "label": "892"
+      }
+    ],
+    "correctAnswerId": "c"
+  },
+  {
+    "id": 546,
+    "question": "29 * 34 = ?",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "986"
+      },
+      {
+        "id": "b",
+        "label": "984"
+      },
+      {
+        "id": "c",
+        "label": "988"
+      }
+    ],
+    "correctAnswerId": "a"
+  },
+  {
+    "id": 547,
+    "question": "_ + 289 = 800",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "510"
+      },
+      {
+        "id": "b",
+        "label": "511"
+      },
+      {
+        "id": "c",
+        "label": "512"
+      }
+    ],
+    "correctAnswerId": "b"
+  },
+  {
+    "id": 548,
+    "question": "5 ^ 5 = ?",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "3123"
+      },
+      {
+        "id": "b",
+        "label": "3127"
+      },
+      {
+        "id": "c",
+        "label": "3125"
+      }
+    ],
+    "correctAnswerId": "c"
+  },
+  {
+    "id": 549,
+    "question": "960 / _ = 32",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "30"
+      },
+      {
+        "id": "b",
+        "label": "29"
+      },
+      {
+        "id": "c",
+        "label": "31"
+      }
+    ],
+    "correctAnswerId": "a"
+  },
+  {
+    "id": 550,
+    "question": "_ - 356 = 587",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "942"
+      },
+      {
+        "id": "b",
+        "label": "943"
+      },
+      {
+        "id": "c",
+        "label": "944"
+      }
+    ],
+    "correctAnswerId": "b"
+  },
+  {
+    "id": 551,
+    "question": "_ ^ 5 = 1024",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "3"
+      },
+      {
+        "id": "b",
+        "label": "5"
+      },
+      {
+        "id": "c",
+        "label": "4"
+      }
+    ],
+    "correctAnswerId": "c"
+  },
+  {
+    "id": 552,
+    "question": "41 * 24 = ?",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "984"
+      },
+      {
+        "id": "b",
+        "label": "982"
+      },
+      {
+        "id": "c",
+        "label": "986"
+      }
+    ],
+    "correctAnswerId": "a"
+  },
+  {
+    "id": 553,
+    "question": "_ + 534 = 1000",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "465"
+      },
+      {
+        "id": "b",
+        "label": "466"
+      },
+      {
+        "id": "c",
+        "label": "467"
+      }
+    ],
+    "correctAnswerId": "b"
+  },
+  {
+    "id": 554,
+    "question": "2 ^ 3 = ?",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "6"
+      },
+      {
+        "id": "b",
+        "label": "10"
+      },
+      {
+        "id": "c",
+        "label": "8"
+      }
+    ],
+    "correctAnswerId": "c"
+  },
+  {
+    "id": 555,
+    "question": "_ * 42 = 840",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "20"
+      },
+      {
+        "id": "b",
+        "label": "19"
+      },
+      {
+        "id": "c",
+        "label": "21"
+      }
+    ],
+    "correctAnswerId": "a"
+  },
+  {
+    "id": 556,
+    "question": "917 - _ = 348",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "568"
+      },
+      {
+        "id": "b",
+        "label": "569"
+      },
+      {
+        "id": "c",
+        "label": "570"
+      }
+    ],
+    "correctAnswerId": "b"
+  },
+  {
+    "id": 557,
+    "question": "_ ^ 4 = 2401",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "6"
+      },
+      {
+        "id": "b",
+        "label": "8"
+      },
+      {
+        "id": "c",
+        "label": "7"
+      }
+    ],
+    "correctAnswerId": "c"
+  },
+  {
+    "id": 558,
+    "question": "980 / 28 = ?",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "35"
+      },
+      {
+        "id": "b",
+        "label": "34"
+      },
+      {
+        "id": "c",
+        "label": "36"
+      }
+    ],
+    "correctAnswerId": "a"
+  },
+  {
+    "id": 559,
+    "question": "_ + 418 = 900",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "481"
+      },
+      {
+        "id": "b",
+        "label": "482"
+      },
+      {
+        "id": "c",
+        "label": "483"
+      }
+    ],
+    "correctAnswerId": "b"
+  },
+  {
+    "id": 560,
+    "question": "12 ^ 2 = ?",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "142"
+      },
+      {
+        "id": "b",
+        "label": "146"
+      },
+      {
+        "id": "c",
+        "label": "144"
+      }
+    ],
+    "correctAnswerId": "c"
+  },
+  {
+    "id": 561,
+    "question": "_ * 36 = 900",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "25"
+      },
+      {
+        "id": "b",
+        "label": "24"
+      },
+      {
+        "id": "c",
+        "label": "26"
+      }
+    ],
+    "correctAnswerId": "a"
+  },
+  {
+    "id": 562,
+    "question": "_ - 467 = 416",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "882"
+      },
+      {
+        "id": "b",
+        "label": "883"
+      },
+      {
+        "id": "c",
+        "label": "884"
+      }
+    ],
+    "correctAnswerId": "b"
+  },
+  {
+    "id": 563,
+    "question": "4 ^ 4 = ?",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "254"
+      },
+      {
+        "id": "b",
+        "label": "258"
+      },
+      {
+        "id": "c",
+        "label": "256"
+      }
+    ],
+    "correctAnswerId": "c"
+  },
+  {
+    "id": 564,
+    "question": "800 / _ = 32",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "25"
+      },
+      {
+        "id": "b",
+        "label": "24"
+      },
+      {
+        "id": "c",
+        "label": "26"
+      }
+    ],
+    "correctAnswerId": "a"
+  },
+  {
+    "id": 565,
+    "question": "_ + 583 = 1000",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "416"
+      },
+      {
+        "id": "b",
+        "label": "417"
+      },
+      {
+        "id": "c",
+        "label": "418"
+      }
+    ],
+    "correctAnswerId": "b"
+  },
+  {
+    "id": 566,
+    "question": "_ ^ 5 = 3125",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "4"
+      },
+      {
+        "id": "b",
+        "label": "6"
+      },
+      {
+        "id": "c",
+        "label": "5"
+      }
+    ],
+    "correctAnswerId": "c"
+  },
+  {
+    "id": 567,
+    "question": "33 * 29 = ?",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "957"
+      },
+      {
+        "id": "b",
+        "label": "955"
+      },
+      {
+        "id": "c",
+        "label": "959"
+      }
+    ],
+    "correctAnswerId": "a"
+  },
+  {
+    "id": 568,
+    "question": "993 - _ = 456",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "536"
+      },
+      {
+        "id": "b",
+        "label": "537"
+      },
+      {
+        "id": "c",
+        "label": "538"
+      }
+    ],
+    "correctAnswerId": "b"
+  },
+  {
+    "id": 569,
+    "question": "11 ^ 2 = ?",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "119"
+      },
+      {
+        "id": "b",
+        "label": "123"
+      },
+      {
+        "id": "c",
+        "label": "121"
+      }
+    ],
+    "correctAnswerId": "c"
+  },
+  {
+    "id": 570,
+    "question": "_ * 48 = 960",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "20"
+      },
+      {
+        "id": "b",
+        "label": "19"
+      },
+      {
+        "id": "c",
+        "label": "21"
+      }
+    ],
+    "correctAnswerId": "a"
+  },
+  {
+    "id": 571,
+    "question": "_ + 628 = 1000",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "371"
+      },
+      {
+        "id": "b",
+        "label": "372"
+      },
+      {
+        "id": "c",
+        "label": "373"
+      }
+    ],
+    "correctAnswerId": "b"
+  },
+  {
+    "id": 572,
+    "question": "_ ^ 4 = 4096",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "7"
+      },
+      {
+        "id": "b",
+        "label": "9"
+      },
+      {
+        "id": "c",
+        "label": "8"
+      }
+    ],
+    "correctAnswerId": "c"
+  },
+  {
+    "id": 573,
+    "question": "1000 / 50 = ?",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "20"
+      },
+      {
+        "id": "b",
+        "label": "19"
+      },
+      {
+        "id": "c",
+        "label": "21"
+      }
+    ],
+    "correctAnswerId": "a"
+  },
+  {
+    "id": 574,
+    "question": "_ - 574 = 318",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "891"
+      },
+      {
+        "id": "b",
+        "label": "892"
+      },
+      {
+        "id": "c",
+        "label": "893"
+      }
+    ],
+    "correctAnswerId": "b"
+  },
+  {
+    "id": 575,
+    "question": "46 * 21 = ?",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "964"
+      },
+      {
+        "id": "b",
+        "label": "968"
+      },
+      {
+        "id": "c",
+        "label": "966"
+      }
+    ],
+    "correctAnswerId": "c"
+  },
+  {
+    "id": 576,
+    "question": "_ + 392 = 800",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "408"
+      },
+      {
+        "id": "b",
+        "label": "407"
+      },
+      {
+        "id": "c",
+        "label": "409"
+      }
+    ],
+    "correctAnswerId": "a"
+  },
+  {
+    "id": 577,
+    "question": "2 ^ 6 = ?",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "62"
+      },
+      {
+        "id": "b",
+        "label": "64"
+      },
+      {
+        "id": "c",
+        "label": "66"
+      }
+    ],
+    "correctAnswerId": "b"
+  },
+  {
+    "id": 578,
+    "question": "920 / _ = 40",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "22"
+      },
+      {
+        "id": "b",
+        "label": "24"
+      },
+      {
+        "id": "c",
+        "label": "23"
+      }
+    ],
+    "correctAnswerId": "c"
+  },
+  {
+    "id": 579,
+    "question": "_ - 427 = 536",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "963"
+      },
+      {
+        "id": "b",
+        "label": "962"
+      },
+      {
+        "id": "c",
+        "label": "964"
+      }
+    ],
+    "correctAnswerId": "a"
+  },
+  {
+    "id": 580,
+    "question": "_ ^ 5 = 7776",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "5"
+      },
+      {
+        "id": "b",
+        "label": "6"
+      },
+      {
+        "id": "c",
+        "label": "7"
+      }
+    ],
+    "correctAnswerId": "b"
+  },
+  {
+    "id": 581,
+    "question": "39 * 25 = ?",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "973"
+      },
+      {
+        "id": "b",
+        "label": "977"
+      },
+      {
+        "id": "c",
+        "label": "975"
+      }
+    ],
+    "correctAnswerId": "c"
+  },
+  {
+    "id": 582,
+    "question": "_ + 447 = 1000",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "553"
+      },
+      {
+        "id": "b",
+        "label": "552"
+      },
+      {
+        "id": "c",
+        "label": "554"
+      }
+    ],
+    "correctAnswerId": "a"
+  },
+  {
+    "id": 583,
+    "question": "9 ^ 3 = ?",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "727"
+      },
+      {
+        "id": "b",
+        "label": "729"
+      },
+      {
+        "id": "c",
+        "label": "731"
+      }
+    ],
+    "correctAnswerId": "b"
+  },
+  {
+    "id": 584,
+    "question": "_ * 44 = 880",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "19"
+      },
+      {
+        "id": "b",
+        "label": "21"
+      },
+      {
+        "id": "c",
+        "label": "20"
+      }
+    ],
+    "correctAnswerId": "c"
+  },
+  {
+    "id": 585,
+    "question": "834 - _ = 467",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "367"
+      },
+      {
+        "id": "b",
+        "label": "366"
+      },
+      {
+        "id": "c",
+        "label": "368"
+      }
+    ],
+    "correctAnswerId": "a"
+  },
+  {
+    "id": 586,
+    "question": "_ ^ 4 = 6561",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "8"
+      },
+      {
+        "id": "b",
+        "label": "9"
+      },
+      {
+        "id": "c",
+        "label": "10"
+      }
+    ],
+    "correctAnswerId": "b"
+  },
+  {
+    "id": 587,
+    "question": "780 / 30 = ?",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "25"
+      },
+      {
+        "id": "b",
+        "label": "27"
+      },
+      {
+        "id": "c",
+        "label": "26"
+      }
+    ],
+    "correctAnswerId": "c"
+  },
+  {
+    "id": 588,
+    "question": "_ + 319 = 900",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "581"
+      },
+      {
+        "id": "b",
+        "label": "580"
+      },
+      {
+        "id": "c",
+        "label": "582"
+      }
+    ],
+    "correctAnswerId": "a"
+  },
+  {
+    "id": 589,
+    "question": "12 ^ 3 = ?",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "1726"
+      },
+      {
+        "id": "b",
+        "label": "1728"
+      },
+      {
+        "id": "c",
+        "label": "1730"
+      }
+    ],
+    "correctAnswerId": "b"
+  },
+  {
+    "id": 590,
+    "question": "_ * 33 = 990",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "29"
+      },
+      {
+        "id": "b",
+        "label": "31"
+      },
+      {
+        "id": "c",
+        "label": "30"
+      }
+    ],
+    "correctAnswerId": "c"
+  },
+  {
+    "id": 591,
+    "question": "_ - 384 = 476",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "860"
+      },
+      {
+        "id": "b",
+        "label": "859"
+      },
+      {
+        "id": "c",
+        "label": "861"
+      }
+    ],
+    "correctAnswerId": "a"
+  },
+  {
+    "id": 592,
+    "question": "5 ^ 3 = ?",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "123"
+      },
+      {
+        "id": "b",
+        "label": "125"
+      },
+      {
+        "id": "c",
+        "label": "127"
+      }
+    ],
+    "correctAnswerId": "b"
+  },
+  {
+    "id": 593,
+    "question": "_ + 483 = 1000",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "516"
+      },
+      {
+        "id": "b",
+        "label": "518"
+      },
+      {
+        "id": "c",
+        "label": "517"
+      }
+    ],
+    "correctAnswerId": "c"
+  },
+  {
+    "id": 594,
+    "question": "864 / 32 = ?",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "27"
+      },
+      {
+        "id": "b",
+        "label": "26"
+      },
+      {
+        "id": "c",
+        "label": "28"
+      }
+    ],
+    "correctAnswerId": "a"
+  },
+  {
+    "id": 595,
+    "question": "_ ^ 5 = 100000",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "9"
+      },
+      {
+        "id": "b",
+        "label": "10"
+      },
+      {
+        "id": "c",
+        "label": "11"
+      }
+    ],
+    "correctAnswerId": "b"
+  },
+  {
+    "id": 596,
+    "question": "47 * 22 = ?",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "1032"
+      },
+      {
+        "id": "b",
+        "label": "1036"
+      },
+      {
+        "id": "c",
+        "label": "1034"
+      }
+    ],
+    "correctAnswerId": "c"
+  },
+  {
+    "id": 597,
+    "question": "_ - 539 = 428",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "967"
+      },
+      {
+        "id": "b",
+        "label": "966"
+      },
+      {
+        "id": "c",
+        "label": "968"
+      }
+    ],
+    "correctAnswerId": "a"
+  },
+  {
+    "id": 598,
+    "question": "10 ^ 4 = ?",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "9998"
+      },
+      {
+        "id": "b",
+        "label": "10000"
+      },
+      {
+        "id": "c",
+        "label": "10002"
+      }
+    ],
+    "correctAnswerId": "b"
+  },
+  {
+    "id": 599,
+    "question": "_ * 25 = 1000",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "39"
+      },
+      {
+        "id": "b",
+        "label": "41"
+      },
+      {
+        "id": "c",
+        "label": "40"
+      }
+    ],
+    "correctAnswerId": "c"
+  },
+  {
+    "id": 600,
+    "question": "_ + 374 = 1000",
+    "difficulty": 5,
+    "answers": [
+      {
+        "id": "a",
+        "label": "626"
+      },
+      {
+        "id": "b",
+        "label": "625"
+      },
+      {
+        "id": "c",
+        "label": "627"
+      }
+    ],
+    "correctAnswerId": "a"
+  }
+]
