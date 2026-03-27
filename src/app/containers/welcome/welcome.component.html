@@ -4,7 +4,7 @@
     <p class="mb-0 opacity-75">Sprawdź swoje umiejętności matematyczne</p>
   </div>
 
-  <form novalidate>
+  <div>
     <div class="mb-3">
       <label for="playerName" class="form-label fw-semibold">Jak masz na imię?</label>
       <input
@@ -16,6 +16,7 @@
         placeholder="Wpisz swoje imię..."
         autocomplete="given-name"
         aria-describedby="playerNameError"
+        (keydown.enter)="$event.preventDefault(); submit()"
       />
       @if (submitted() && nameControl.invalid) {
         <div id="playerNameError" class="invalid-feedback" role="alert">
@@ -25,10 +26,10 @@
     </div>
 
     <div class="d-grid">
-      <button type="button" (click)="submit()" class="btn btn-primary btn-lg">
+      <button type="button" class="btn btn-primary btn-lg" (click)="submit()">
         Zaczynamy! 🚀
       </button>
     </div>
-  </form>
+  </div>
 </app-card>
 

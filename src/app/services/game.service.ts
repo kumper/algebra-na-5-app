@@ -10,6 +10,11 @@ export interface AnsweredQuestion {
   correct: boolean;
 }
 
+export interface AnswerEvent {
+  correct: boolean;
+  version: number; // increments every answer — guarantees effect() fires
+}
+
 const TOTAL_QUESTIONS = 25;
 
 const DIFFICULTY_THRESHOLDS: Record<number, 1 | 2 | 3 | 4 | 5> = {
@@ -38,10 +43,12 @@ export class GameService {
   readonly questionsAnswered = signal(0);
   readonly history = signal<AnsweredQuestion[]>([]);
   readonly currentQuestion = signal<Question | null>(null);
-  /** null = no feedback shown; true/false = last answer result */
-  readonly lastAnswerCorrect = signal<boolean | null>(null);
+  /** Versioned event — always changes so effect() fires on every answer */
+  readonly lastAnswerEvent = signal<AnswerEvent | null>(null);
   /** null = no level-up; number = the new level just reached */
   readonly levelUpTo = signal<number | null>(null);
+
+  #answerVersion = 0;
 
   readonly currentDifficulty = computed(() =>
     difficultyForScore(this.score())
@@ -64,8 +71,9 @@ export class GameService {
     this.score.set(0);
     this.questionsAnswered.set(0);
     this.history.set([]);
-    this.lastAnswerCorrect.set(null);
+    this.lastAnswerEvent.set(null);
     this.levelUpTo.set(null);
+    this.#answerVersion = 0;
     this.#usedIds = new Set();
 
     this.#questionService.getAll().pipe(take(1)).subscribe((questions) => {
@@ -81,7 +89,7 @@ export class GameService {
     const prevDifficulty = this.currentDifficulty();
     const correct = selectedAnswerId === question.correctAnswerId;
 
-    this.lastAnswerCorrect.set(correct);
+    this.lastAnswerEvent.set({ correct, version: ++this.#answerVersion });
     this.score.update((s) => Math.max(0, s + (correct ? 1 : -1)));
     this.questionsAnswered.update((n) => n + 1);
     this.history.update((h) => [

@@ -7,8 +7,15 @@ const LEVEL_CLASSES: Record<number, string> = {
   1: 'level-1', 2: 'level-2', 3: 'level-3', 4: 'level-4', 5: 'level-5',
 };
 
-const CORRECT_TOASTS = ['Super! 🎉', 'Świetnie! ⭐', 'Brawo! 👏', 'Doskonale! 🔥', 'Tak trzymaj! 💪'];
-const WRONG_TOASTS  = ['Nie tym razem 😅', 'Prawie! 🙈', 'Spróbuj dalej! 💡'];
+const CORRECT_TOASTS = [
+  'Super! 🎉', 'Świetnie! ⭐', 'Brawo! 👏', 'Doskonale! 🔥', 'Tak trzymaj! 💪',
+  'Amerykańsko! 🇺🇸', 'Gites! 😎', 'Tak jest! 🫡', 'Dokładnie! 🎯',
+  'Mistrzostwo! 🏅', 'No to HIT! 🚀', 'Luz blues! 😄', 'Petarda! 🧨',
+];
+const WRONG_TOASTS = [
+  'Nieee... 😬', 'To nie to 🙅', 'Niestety... 😕',
+  'Prawie! 🙈', 'Spróbuj dalej! 💡', 'Nie tym razem 😅', 'Oj, oj... 🤔',
+];
 
 @Component({
   selector: 'app-question-page',
@@ -21,28 +28,24 @@ export class QuestionPageComponent {
   protected readonly game = inject(GameService);
 
   readonly selectedAnswerId = signal<string | null>(null);
+  readonly toastMessage = signal<string | null>(null);
+  readonly levelUpMessage = signal<string | null>(null);
 
   readonly levelClass = computed(
     () => LEVEL_CLASSES[this.game.currentDifficulty()] ?? 'level-1'
   );
 
-  // Toast feedback after answer
-  readonly toastMessage = signal<string | null>(null);
+  readonly #toastEffect = effect(() => {
+    const event = this.game.lastAnswerEvent();
+    if (event === null) return;
 
-  // Level-up overlay
-  readonly levelUpMessage = signal<string | null>(null);
-
-  readonly #toastTimer = effect(() => {
-    const correct = this.game.lastAnswerCorrect();
-    if (correct === null) return;
-
-    const pool = correct ? CORRECT_TOASTS : WRONG_TOASTS;
+    // version is always unique — effect fires on every answer guaranteed
+    const pool = event.correct ? CORRECT_TOASTS : WRONG_TOASTS;
     this.toastMessage.set(pool[Math.floor(Math.random() * pool.length)]);
-
     setTimeout(() => this.toastMessage.set(null), 900);
   });
 
-  readonly #levelUpTimer = effect(() => {
+  readonly #levelUpEffect = effect(() => {
     const level = this.game.levelUpTo();
     if (level === null) return;
 
