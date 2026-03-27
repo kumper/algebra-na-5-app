@@ -1,0 +1,79 @@
+// ── Square answer tiles ──────────────────────────────────────────────────────
+.answer-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0.75rem;
+}
+
+.answer-tile {
+  aspect-ratio: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.25rem;
+  font-weight: 700;
+  padding: 0;
+  border-radius: 0.75rem;
+  transition: transform 0.15s ease, background-color 0.15s ease, border-color 0.15s ease;
+
+  &:hover:not(:disabled) {
+    transform: scale(1.06);
+  }
+
+  &--selected {
+    background-color: var(--level-color, var(--level-1-color)) !important;
+    border-color: var(--level-color, var(--level-1-color)) !important;
+    color: #111d2e !important;
+    transform: scale(1.08);
+  }
+}
+
+// ── Answer toast ─────────────────────────────────────────────────────────────
+.answer-toast {
+  position: absolute;
+  top: 1.25rem;
+  left: 50%;
+  transform: translateX(-50%);
+  background: var(--level-color, var(--level-1-color));
+  color: #111d2e;
+  font-weight: 700;
+  font-size: 1.1rem;
+  padding: 0.4rem 1.25rem;
+  border-radius: 2rem;
+  white-space: nowrap;
+  pointer-events: none;
+  z-index: 10;
+  animation: toast-pop 0.9s ease forwards;
+}
+
+@keyframes toast-pop {
+  0%   { opacity: 0; transform: translateX(-50%) translateY(-8px) scale(0.85); }
+  20%  { opacity: 1; transform: translateX(-50%) translateY(0)     scale(1.05); }
+  70%  { opacity: 1; transform: translateX(-50%) translateY(0)     scale(1);    }
+  100% { opacity: 0; transform: translateX(-50%) translateY(-6px)  scale(0.95); }
+}
+
+// ── Level-up overlay ──────────────────────────────────────────────────────────
+.levelup-overlay {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.5rem;
+  font-weight: 900;
+  color: var(--level-color, var(--level-1-color));
+  background: rgba(17, 29, 46, 0.75);
+  border-radius: inherit;
+  pointer-events: none;
+  z-index: 20;
+  animation: levelup 1s ease forwards;
+}
+
+@keyframes levelup {
+  0%   { opacity: 0; transform: scale(0.6);  letter-spacing: -0.05em; }
+  30%  { opacity: 1; transform: scale(1.15); letter-spacing: 0.08em;  }
+  65%  { opacity: 1; transform: scale(1);    letter-spacing: 0.04em;  }
+  100% { opacity: 0; transform: scale(1.05); letter-spacing: 0.06em;  }
+}
+

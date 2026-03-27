@@ -38,6 +38,10 @@ export class GameService {
   readonly questionsAnswered = signal(0);
   readonly history = signal<AnsweredQuestion[]>([]);
   readonly currentQuestion = signal<Question | null>(null);
+  /** null = no feedback shown; true/false = last answer result */
+  readonly lastAnswerCorrect = signal<boolean | null>(null);
+  /** null = no level-up; number = the new level just reached */
+  readonly levelUpTo = signal<number | null>(null);
 
   readonly currentDifficulty = computed(() =>
     difficultyForScore(this.score())
@@ -60,6 +64,8 @@ export class GameService {
     this.score.set(0);
     this.questionsAnswered.set(0);
     this.history.set([]);
+    this.lastAnswerCorrect.set(null);
+    this.levelUpTo.set(null);
     this.#usedIds = new Set();
 
     this.#questionService.getAll().pipe(take(1)).subscribe((questions) => {
@@ -72,14 +78,23 @@ export class GameService {
     const question = this.currentQuestion();
     if (!question) return;
 
+    const prevDifficulty = this.currentDifficulty();
     const correct = selectedAnswerId === question.correctAnswerId;
 
+    this.lastAnswerCorrect.set(correct);
     this.score.update((s) => Math.max(0, s + (correct ? 1 : -1)));
     this.questionsAnswered.update((n) => n + 1);
     this.history.update((h) => [
       ...h,
       { question, selectedAnswerId, correct },
     ]);
+
+    const newDifficulty = this.currentDifficulty();
+    if (newDifficulty > prevDifficulty) {
+      this.levelUpTo.set(newDifficulty);
+    } else {
+      this.levelUpTo.set(null);
+    }
 
     if (this.isFinished()) {
       this.#router.navigate(['/results']);
@@ -110,4 +125,6 @@ export class GameService {
     this.#router.navigate(['/question']);
   }
 }
+
+
 

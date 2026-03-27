@@ -11,6 +11,7 @@
   color: var(--color-text);
   max-width: 560px;
   min-width: 300px;
+  position: relative;
   transition: border-color 0.4s ease, box-shadow 0.4s ease;
 }
 
