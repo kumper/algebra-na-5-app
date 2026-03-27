@@ -1,0 +1,13 @@
+<p class="question-text mb-0">
+  @for (part of parts(); track $index) {
+    <span>{{ part }}</span>
+    @if ($index < parts().length - 1) {
+      <span
+        class="question-blank"
+        [class.question-blank--revealed]="revealedAnswer() !== null"
+        aria-label="miejsce do uzupełnienia"
+      >{{ revealedAnswer() ?? '' }}</span>
+    }
+  }
+</p>
+

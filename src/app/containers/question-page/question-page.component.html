@@ -1,0 +1,25 @@
+<app-card>
+  @if (question(); as q) {
+    <div class="text-center mb-4">
+      <span class="badge bg-secondary mb-3">Poziom {{ q.difficulty }}</span>
+      <app-question-display [question]="q.question" />
+    </div>
+
+    <div class="d-grid gap-2">
+      @for (answer of q.answers; track answer.id) {
+        <button type="button" class="btn btn-outline-light btn-lg">
+          <span class="fw-bold me-2">{{ answer.id | uppercase }})</span>{{ answer.label }}
+        </button>
+      }
+    </div>
+  } @else if (notFound()) {
+    <p class="text-center text-warning mb-0">Nie znaleziono pytania.</p>
+  } @else {
+    <div class="text-center">
+      <div class="spinner-border text-light" role="status">
+        <span class="visually-hidden">Ładowanie...</span>
+      </div>
+    </div>
+  }
+</app-card>
+

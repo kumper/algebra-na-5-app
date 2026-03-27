@@ -16,6 +16,13 @@ export const routes: Routes = [
       ),
   },
   {
+    path: 'questions/:id',
+    loadComponent: () =>
+      import('./containers/question-page/question-page.component').then(
+        (m) => m.QuestionPageComponent
+      ),
+  },
+  {
     path: '**',
     redirectTo: '',
   },

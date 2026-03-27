@@ -1,0 +1,23 @@
+.question-text {
+  font-size: 2rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+}
+
+.question-blank {
+  display: inline-block;
+  min-width: 2.5rem;
+  border-bottom: 3px solid var(--color-text);
+  text-align: center;
+  padding: 0 0.35rem;
+  margin: 0 0.2rem;
+  border-radius: 0.25rem;
+  color: transparent; // hide empty value until revealed
+
+  &--revealed {
+    background-color: var(--color-card-border);
+    border-color: transparent;
+    color: var(--color-text);
+  }
+}
+

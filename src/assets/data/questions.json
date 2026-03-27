@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "question": "1 + 2 = ?",
+    "difficulty": 1,
+    "answers": [
+      { "id": "a", "label": "1" },
+      { "id": "b", "label": "2" },
+      { "id": "c", "label": "3" }
+    ],
+    "correctAnswerId": "c"
+  }
+]
+
